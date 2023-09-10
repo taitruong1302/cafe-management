@@ -1,0 +1,41 @@
+mat-form-field {
+    padding: 5px;
+}
+
+.float-right {
+    float: right;
+}
+
+table {
+    width: 100%;
+}
+
+
+.header-card {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.header-card span {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: large;
+    display: inline-grid;
+    align-content: center;
+}
+
+.action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.header {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: large;
+    display: inline-grid;
+    align-content: center;
+}
